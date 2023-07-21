@@ -1,2 +1,7 @@
-# facts-and-misconceptions-of-object-orientation
-객체지향의 사실과 오해
+# 객체지향의 사실과 오해
+
+![객사오](객체지향의%20사실과%20오해.png)
+
+- 이진우
+- 변인길
+- 김유나
